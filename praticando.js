@@ -1,6 +1,6 @@
 // declarando as váriaveis, com nome do herói e seu nível
-let nomeHeroi = "Homem de ferro" 
-let nivelHeroi = 9500;
+let nomeHeroi = input("Digite o nome do herói: ");
+let nivelHeroi = parseInt(input("Digite o nível do herói: ")); 
 let nivel = " ";
 
 // definindo o nível do herói, ultilizando a estrutua de decisão if...else if...else
