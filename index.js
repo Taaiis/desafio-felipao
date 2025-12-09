@@ -1,6 +1,8 @@
+// declarando as váriaveis 
 let nomeHeroi = "Homem de ferro"
 let nivelHeroi = 8000
 let nivel = " ";
+
 
  if (nivelHeroi <= 1000) {
         nivel = "Ferro";
@@ -19,7 +21,6 @@ let nivel = " ";
  } else if (nivelHeroi > 10000) {
        nivel = "Radiante";
  }
-    if (nivelHeroi <= 1000) {
         console.log(`O Herói de nome ${nomeHeroi} esta no nível de ${nivel}`);
-}
+
     
