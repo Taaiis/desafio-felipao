@@ -1,9 +1,9 @@
-let vitorias = int(input("Digite o número de vitórias: "));
-let derrotas = int(input("Digite o número de derrotas: "));
+let vitorias = int(input("Digite o número de vitórias: "));//Parâmetro que recebe a quantidades de vitórias 
+let derrotas = int(input("Digite o número de derrotas: "));//Parâmetro que recebe a quantidades de derrotas
 
 
 
-
+//iniciando a função para calcular o nível do herói
 function calcularNivel(vitorias, derrotas) {
 let saldoDeVitorias = vitorias - derrotas
 let nivel = "";
