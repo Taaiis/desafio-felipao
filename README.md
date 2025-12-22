@@ -1,6 +1,16 @@
 Desafios de Lógica de Programação - DIO
 Este repositório contém a resolução de dois desafios práticos da trilha Fundamentos da lógica de programação da DIO (Digital Innovation One). Os projetos foram desenvolvidos em JavaScript para consolidar conceitos fundamentais.
 
+Durante esses desafios, pude reforçar:
+                                        
+                                        A importância da limpeza de código.
+                                        
+                                        Como utilizar funções para isolar responsabilidades e tornar o código reutilizável.
+                                        
+                                        Manipulação de strings utilizando template literals.
+
+                                        
+
   Classificador de Nível de Herói
 O objetivo deste desafio foi utilizar variáveis e estruturas de decisão para classificar um herói com base em sua quantidade de experiência (XP).
 
@@ -17,12 +27,6 @@ Conceitos utilizados foram: Funções, Parâmetros de entrada, Escopo de variáv
 Lógica utilizada: Uma função recebe vitórias e derrotas, calcula o saldo e retorna o nível do jogador (de Ferro a Imortal).
 
 
-                                        Durante esses desafios, pude reforçar:
                                         
-                                        A importância da limpeza de código.
-                                        
-                                        Como utilizar funções para isolar responsabilidades e tornar o código reutilizável.
-                                        
-                                        Manipulação de strings utilizando template literals.
                                         
                                     
