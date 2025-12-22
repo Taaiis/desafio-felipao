@@ -4,7 +4,7 @@ let derrotas = int(input("Digite o número de derrotas: "));
 
 
 
-function Calcularnivel(vitorias, derrotas) {
+function calcularNivel(vitorias, derrotas) {
 let saldoDeVitorias = vitorias - derrotas
 let nivel = "";
 
@@ -32,7 +32,7 @@ if (vitorias <= 10) {
     nivel = "Imortal"
 
 }
-return ('O Herói tem de saldo de vitórias ' + saldoDeVitorias + ' está no nível' + nivel);
+return ('O Herói tem de saldo de vitórias ' + saldoDeVitorias + ' está no nível ' + nivel);
 }
-let resultado = Calcularnivel (vitorias, derrotas);
+let resultado = calcularNivel (vitorias, derrotas);
 console.log(resultado);
